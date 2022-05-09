@@ -1,0 +1,8 @@
+.bodyOneContainer {
+  height: 100vh;
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  .bodyOneTitle{
+    color: #ffffff;
+  }
+}

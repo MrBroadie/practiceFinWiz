@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400&display=swap');
+.bodyContainer {
+  font-family: 'Montserrat', sans-serif;  
+  display: grid;
+  grid-template-rows: 2fr 1fr 2fr 1fr ;
+  background-color: #111D2C;
+  color: #ffffff;
+}
